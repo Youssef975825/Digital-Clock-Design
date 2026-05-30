@@ -2,7 +2,7 @@
 
 A sleek, interactive clock project featuring both analog and digital displays, built with modern web technologies. This project utilizes a Neumorphic design aesthetic to provide a clean and professional user interface[cite: 2].
 
-**[🔗 Click here to view the Live Demo](YOUR_VERCEL_LINK_HERE)**
+**[🔗 Click here to view the Live Demo](https://digital-clock-design-two.vercel.app/)**
 
 ## 🚀 Features
 
