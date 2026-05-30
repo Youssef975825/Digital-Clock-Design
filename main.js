@@ -40,7 +40,7 @@ let ampm = document.getElementById("ampm");
         }
 
         let am;
-        if(hhd > 12){
+        if(hhd <= 12){
             am = "PM";
         }else{
             am = "AM";
