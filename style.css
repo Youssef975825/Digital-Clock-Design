@@ -178,20 +178,3 @@ body{
         opacity: 1;
     }
 }
-
-@media (max-width: 400px) {
-    .clock {
-        width: 300px;
-        height: 300px;
-    }
-
-    #time {
-        font-size: 1.5em;
-        /* تصغير حجم عرض الوقت الرقمي */
-        padding: 5px 10px;
-    }
-
-    #time div {
-        width: 45px;
-    }
-}
